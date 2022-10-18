@@ -1,0 +1,2 @@
+# init azim    init elev
+108.41     4.47      
